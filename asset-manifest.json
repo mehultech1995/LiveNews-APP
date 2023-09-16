@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-news-app/static/css/main.abd64e84.css",
-    "main.js": "/React-news-app/static/js/main.788ec2cd.js",
-    "static/js/787.66a4299e.chunk.js": "/React-news-app/static/js/787.66a4299e.chunk.js",
-    "static/media/loading.gif": "/React-news-app/static/media/loading.535be3cd0923be4bdb5c.gif",
-    "index.html": "/React-news-app/index.html",
-    "main.abd64e84.css.map": "/React-news-app/static/css/main.abd64e84.css.map",
-    "main.788ec2cd.js.map": "/React-news-app/static/js/main.788ec2cd.js.map",
-    "787.66a4299e.chunk.js.map": "/React-news-app/static/js/787.66a4299e.chunk.js.map"
+    "main.css": "/LiveNews-APP/static/css/main.abd64e84.css",
+    "main.js": "/LiveNews-APP/static/js/main.c9ec8f61.js",
+    "static/js/787.66a4299e.chunk.js": "/LiveNews-APP/static/js/787.66a4299e.chunk.js",
+    "static/media/loading.gif": "/LiveNews-APP/static/media/loading.535be3cd0923be4bdb5c.gif",
+    "index.html": "/LiveNews-APP/index.html",
+    "main.abd64e84.css.map": "/LiveNews-APP/static/css/main.abd64e84.css.map",
+    "main.c9ec8f61.js.map": "/LiveNews-APP/static/js/main.c9ec8f61.js.map",
+    "787.66a4299e.chunk.js.map": "/LiveNews-APP/static/js/787.66a4299e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.788ec2cd.js"
+    "static/js/main.c9ec8f61.js"
   ]
 }
